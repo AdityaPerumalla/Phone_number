@@ -2,7 +2,7 @@ import phonenumbers
 from phonenumbers import geocoder, carrier
 
 # Parsing String to Phone number
-ph_number = phonenumbers.parse('+919440750032')
+ph_number = phonenumbers.parse('+918500990797')
 
 # Getting carrier of a phone number
 Carrier = carrier.name_for_number(ph_number, 'en')
